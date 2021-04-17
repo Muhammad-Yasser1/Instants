@@ -1,0 +1,15 @@
+{
+  "name": "checkedin",
+  "version": "1.0.0",
+  "description": "checkedin is a PWA that allow us to share pictures of places we visited with our friends",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "Muhammad Yasser",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
