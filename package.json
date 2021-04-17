@@ -1,7 +1,7 @@
 {
-  "name": "checkedin",
+  "name": "instants",
   "version": "1.0.0",
-  "description": "checkedin is a PWA that allow us to share pictures of places we visited with our friends",
+  "description": "instant is a PWA that allow us to preserve our good memories and share it with the people we love",
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1"
