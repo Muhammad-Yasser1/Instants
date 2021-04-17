@@ -1,7 +1,7 @@
 {
   "name": "instants",
   "version": "1.0.0",
-  "description": "instant is a PWA that allow us to preserve our good memories and share it with the people we love",
+  "description": "Instants is a PWA that allow us to preserve our good memories and share them with the people we love",
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1"
